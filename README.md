@@ -20,14 +20,14 @@ import (
 )
 
 func main() {
-    //创建QuickGin
+	//创建QuickGin
 	engine := quickgin.New()
 	engine.GET("/ping", func(c *gin.Context) {
 		c.String(200, "pong")
-    })
-    
-    //engine.Run()
-    engine.RunH2C()//启动 
+	})
+
+	//engine.Run()
+	engine.RunH2C()//启动 
 }
 ```
 

@@ -32,7 +32,7 @@ func main() {
 ```
 
 
-## 客户端访问
+## 客户端请求
 ```go
 package main
 

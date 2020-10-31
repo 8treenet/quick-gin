@@ -1,5 +1,5 @@
 # quick-gin
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/8treenet/quick-gin/blob/master/LICENSE) [![Go Report Card](https://goreportcard.com/badge/github.com/8treenet/quick-gin)](https://goreportcard.com/report/github.com/8treenet/quick-gin) [![Build Status](https://travis-ci.org/8treenet/quick-gin.svg?branch=master)](https://travis-ci.org/8treenet/quick-gin) [![GoDoc](https://godoc.org/github.com/8treenet/quick-gin?status.svg)](https://godoc.org/github.com/8treenet/quick-gin)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/8treenet/quick-gin/blob/master/LICENSE) [![Go Report Card](https://goreportcard.com/badge/github.com/8treenet/quick-gin)](https://goreportcard.com/report/github.com/8treenet/quick-gin) [![Build Status](https://travis-ci.org/8treenet/gotree.svg?branch=master)](https://travis-ci.org/8treenet/gotree) [![GoDoc](https://godoc.org/github.com/8treenet/quick-gin?status.svg)](https://godoc.org/github.com/8treenet/quick-gin)
 [![GitHub release](https://img.shields.io/github/v/release/8treenet/quick-gin.svg)](https://github.com/8treenet/quick-gin/releases)
 #### QuickGin是为Gin打造的HTTP/2 H2C版本的扩展引擎。
 

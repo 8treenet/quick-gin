@@ -74,4 +74,4 @@ func press() {
 
 ```
 
-<img src="https://raw.githubusercontent.com/8treenet/quick-gin/master/example/client/client.png">
+<img src="https://github.com/8treenet/quick-gin/blob/main/example/client/client.jpg">

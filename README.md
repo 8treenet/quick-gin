@@ -69,7 +69,7 @@ func press() {
 
 	group.Wait()
 	ms := time.Now().Sub(begin).Milliseconds()
-	fmt.Printf("Request times: %d, ms time: %d \n", requestCount, ms)
+	fmt.Printf("Number of requests: %d, total time: %d ms. \n", requestCount, ms)
 }
 
 ```
